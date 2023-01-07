@@ -21,4 +21,4 @@ Project must be deployed (15 Marks)
 
 Template Repository to create your own repository: AYUSHBANSAL-hub/AccioJob-F2-Jan-6th-contest-template (github.com)
 
-Step 1: Click the above link
+
